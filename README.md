@@ -1,5 +1,13 @@
 # AI-Accelerated 5-Stage Pipelined RISC-V Processor
 
+## Processor Architecture
+
+![Architecture](docs/architecture.png)
+
+## Simulation Waveform
+
+![Waveform](docs/waveform.png)
+
 ## Overview
 This project implements a simplified RISC-V processor with a custom AI accelerator integrated into the execution stage. The processor demonstrates core computer architecture concepts including pipelining, register file design, ALU operations, and hardware acceleration for vector computations.
 
