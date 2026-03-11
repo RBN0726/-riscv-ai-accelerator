@@ -1,3 +1,5 @@
+![Project Banner](docs/banner.png)
+
 # AI-Accelerated 5-Stage Pipelined RISC-V Processor
 
 ## Processor Architecture
